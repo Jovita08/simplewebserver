@@ -98,7 +98,7 @@ httpd.serve_forever()
 ## OUTPUT:
 ### CLIENT SIDE OUTPUT:
 ![CLIENTSIDEOUTPUT!](./cso1.png)
-![CLIENTSIDEOUTPUT!](./cso1.png)
+![CLIENTSIDEOUTPUT!](./cso2.png)
 
 ### SERVER SIDE OUTPUT:
 ![SERVERSIDEOUTPUT1](./sso1.png)
