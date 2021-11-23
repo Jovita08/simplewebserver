@@ -106,5 +106,5 @@ httpd.serve_forever()
 ![SERVERSIDEOUTPUT1](./sso3.png)
 
 ## RESULT:
-Thus,global a simple webserver is created to display top five programming languages.
+Thus, a simple webserver is created to display top five programming languages.
 
